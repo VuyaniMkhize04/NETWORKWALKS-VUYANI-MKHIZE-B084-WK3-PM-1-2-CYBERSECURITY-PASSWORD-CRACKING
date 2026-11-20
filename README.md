@@ -133,5 +133,3 @@ The following screenshots provide evidence of the practical exercises completed 
 Week 3 provided practical exposure to password-recovery techniques using both locally installed and online cybersecurity tools.
 
 By completing these two modules, I gained hands-on experience with John the Ripper, Johnny GUI, and NetworkWalks' online password-cracking tools. These exercises strengthened my understanding of password security, hash extraction, and the techniques used to assess password strength.
-
-**All activities were performed as part of the NetworkWalks Cybersecurity & Ethical Hacking Internship for educational purposes.**
